@@ -1,0 +1,16 @@
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\bin\Debug\net5.0\ManipularExcel.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\bin\Debug\net5.0\ManipularExcel.deps.json
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\bin\Debug\net5.0\ManipularExcel.runtimeconfig.json
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\bin\Debug\net5.0\ManipularExcel.runtimeconfig.dev.json
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\bin\Debug\net5.0\ManipularExcel.dll
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\bin\Debug\net5.0\ref\ManipularExcel.dll
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\bin\Debug\net5.0\ManipularExcel.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.csproj.AssemblyReference.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.AssemblyInfoInputs.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.AssemblyInfo.cs
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.dll
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ref\ManipularExcel.dll
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\ManipularExcel\obj\Debug\net5.0\ManipularExcel.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\bin\Debug\EPPlus.Core.dll
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\bin\Debug\EPPlus.Core.xml
+C:\Users\Rafael Novo\Desktop\Empresas\Ãjudas\Ler e Importar Excel\Excel\obj\Debug\Excel.csproj.CopyComplete
